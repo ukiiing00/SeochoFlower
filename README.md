@@ -1,0 +1,2 @@
+# SeochoFlower
+Seocho AI Project
